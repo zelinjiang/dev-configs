@@ -1,2 +1,2 @@
 # dev_configs
-Comfortable settings for iTerm, Conda, etc
+Settings for iTerm, Conda, etc
